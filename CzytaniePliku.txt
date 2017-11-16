@@ -1,0 +1,61 @@
+Kuchnia
+
+Wyrzucanie śmieci 
+Zmywanie naczyń
+Mycie kuchenki
+Zamiatanie podłoki
+Mycie podłogi
+Mycie okien
+Ścieranie kurzy
+Mycie zlewu
+Mycie lodówki
+Rozmrażanie lodówki
+Mycie kuchenki mikrofalowej
+Mycie tostera
+
+
+Łazienka
+
+Zamiatanie podłoki
+Mycie podłogi
+Pranie
+Wyrzucanie śmieci 
+Mycie okien
+Mycie lustra
+Czyszczenie WC
+Ścieranie kurzy
+Mycie umywalki
+Mycie prysznica 
+Mycie wanny
+
+Przedpokój
+
+Odkurzanie
+Wyrzucanie śmieci 
+Zamiatanie podłoki
+Mycie podłogi
+Mycie okien
+Mycie lustra
+Ścieranie kurzy
+
+
+
+
+
+Kupno środków czystości
+
+Papier toaletowy
+Płyn do mycia naczyń
+Środek do czyszczenia kuchenki i zlewu
+Środek do usuwania tłuszczu
+Środek do usuwania kamienia
+Żarówka 
+Worki na śmieci
+Gąbki do zmywania naczyń
+Mydło
+Płyn do podług
+Środek do ścierania kurzy
+Worki do odkurzacza
+Środek do czyszczenia okien
+
+
